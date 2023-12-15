@@ -1,5 +1,5 @@
 {
-  "name": "wmstudies",
+  "name": "Watermark-Bible-Studies",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,8 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.25.0",
+    "core-js": "^3.6.5",
+    "jquery": "^3.6.0",
+    "json-server": "^0.17.0",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "vue-router": "^4.0.3",
+    "vue-spinner": "^1.0.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~5.0.0",
